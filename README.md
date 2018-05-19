@@ -10,7 +10,7 @@ Simple Single CPU with some basic instruction:
 * `slti`
 * `beq`
 ## Lab3
-### add new instruction 
+add new instruction 
 * `sw`
 * `lw`
 * `jump`
