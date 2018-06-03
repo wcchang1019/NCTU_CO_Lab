@@ -16,3 +16,6 @@ add new instruction
 * `jump`
 * `jal`
 * `jr`
+## Lab4
+Pipeline CPU and add new instruction
+* `mult`
