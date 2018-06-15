@@ -19,3 +19,8 @@ add new instruction
 ## Lab4
 Pipeline CPU and add new instruction
 * `mult`
+## Lab5
+Pipeline CPU with forwarding and hazard and add new instruction
+* `bne`
+* `bge`
+* `bgt`
