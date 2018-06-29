@@ -24,3 +24,5 @@ Pipeline CPU with forwarding and hazard and add new instruction
 * `bne`
 * `bge`
 * `bgt`
+## Lab6
+C++ cache simulator
