@@ -18,7 +18,7 @@ struct cache_content{
 void simulate(int cache_size, int block_size, int associativity){
 	unsigned int tag,index,x;
 
-	int offset_bit = (int) log2(block_size*associativity);
+	int offset_bit = (int) log2(block_size);
 	int index_bit = (int) log2(cache_size/block_size*associativity);
 	int line = (cache_size >> (offset_bit));
     int number_of_lines = 0;
