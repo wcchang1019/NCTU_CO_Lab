@@ -1,4 +1,6 @@
 # NCTU_CO_Lab
+## Lab1
+32-bit ALU
 ## Lab2
 Simple Single CPU with some basic instruction:
 * `add`
